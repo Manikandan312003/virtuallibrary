@@ -1,0 +1,43 @@
+SI:NO,Book Name ,Book Category,road map,Book content page number,15,image,"|||h|||h|||t|||t|||hello|||Good
+H|||Good
+H|||Good
+H|||Good
+H|||Good
+H|||HELLO",12,pdf name ,content,author name
+0,JAVA PROGRAMMING - Mr.E.Karunakar   Technical,Technical,1,5to5,2,assets/images/java.jpg,|||Good|||Good|||Good Book|||Good Book|||Good 1|||Good 12|||good|||good|||helo|||HI|||hi|||hi|||hi|||hi|||hi|||hi|||hi|||hi,18,JAVA PROGRAMMING Notes,JAVA PROGRAMMING Notes_content, Mr.E.Karunakar
+1,LEARNING PYTHON - Fabrizio Romano   Technical,Technical,2,15to22,,assets/images/learningpython.jpg,,,learning-python,learning-python_content, Fabrizio Romano
+2,"THE C PROGRAMMING LANGUAGE - Brian W.Kernighan,Dennis M.Ritchie Technical",Technical,3,2to5,1,assets/images/c.jpg,"|||h|||h|||t|||t|||hello|||Good
+H|||Good
+H|||Good
+H|||Good
+H|||Good
+H|||Good|||Good",13,The C Programming Language - 2nd edition,The C Programming Language - 2nd edition_content," Brian W.Kernighan,Dennis M.Ritchie"
+3,THE C++ PROGRAMMING LANGUAGE - Bjarne Stroustrup    Technical,Technical,4,5to6,4,assets/images/c++.jpg,|||good|||good,2,The C++ Programming Language Special Edition,The C++ Programming Language Special Edition_content, Bjarne Stroustrup
+4,JAVASCRIPT BY EXAMPLE - Ellie Quigley   Technical,Technical,5,7to16,4,assets/images/javascript1.jpg,|||GOOD BOOK|||GOOD BOOK,2,javascript tutorials,javascript tutorials_content, Ellie Quigley
+5,THE FAULT IN OUR STARS - John Green     Fiction story,Fiction story,1,7to7,,assets/images/thefault.jpg,,,The faultin our stars,The faultin our stars_content, John Green 
+6,SIX OF CROWS - Leigh Bardugo    Fiction story,Fiction story,2,6to9,,assets/images/sixcrows.jpg,,,Six of crows part-1,Six of crows part-1_content, Leigh Bardugo
+7,SIX OF CROWS - Leigh Bardugo    Fiction story,Fiction story,3,6to9,,assets/images/sixcrows.jpg,,,Six of crows part-2,Six of crows part-2_content, Leigh Bardugo
+8,COURT OF MIST FURY - Sarah J.Maas   Fiction story,Fiction story,4,5to7,,assets/images/court.jpg,,,A court of mist and fury,A court of mist and fury_content, Sarah J.Maas
+9,TO KILL A MOCKINGBIRD - Harper lee  Fiction story,Fiction story,5,8to9,,assets/images/kill.jpg,,,To kill a mocking bird,To kill a mocking bird_content, Harper lee
+10,ALL YOUR PERFECTS  - Colleen Hoover     Romance,Romance,1,5to6,,assets/images/colleen.jpg,,,All your perfects,All your perfects_content, Colleen Hoover 
+11,VERITY - Colleen Hoover     Romance,Romance,2,5to6,,assets/images/verify.jpg,,,Verity,Verity_content, Colleen Hoover 
+12,THE HATING GAME  - Sally Thorne Romance,Romance,3,5to6,,assets/images/hating.jpg,,,The hating game,The hating game_content, Sally Thorne
+13,PEOPLE WE MEET ON VACATION - Emily Henry    Romance,Romance,4,9to10,,assets/images/people.jpg,,,People we meet on vacation,People we meet on vacation_content, Emily Henry
+14,THE SPANISH LOVE DECEPTION - Elena armas    Romance,Romance,5,6to6,,assets/images/spanish.jpg,,,The-Spanish-Love-Deception,The-Spanish-Love-Deception_content, Elena armas
+15,WHAT I TALK ABOUT WHEN I TALK ABOUT RUNNING  - Haruki Murakami  Self-love ,Self-love ,1,4to4,,assets/images/what.jpg,,,Murakami,Murakami_content, Haruki Murakami
+16,MAN'S SEARCH FOR MEANING  - Viktor E.Frankl Self-love ,Self-love ,2,6to6,,assets/images/man.jpg,,,Man'ssearch for meaning,Man'ssearch for meaning_content, Viktor E.Frankl
+17,THE ALCHEMIST - Paulo coelho    Self-love ,Self-love ,3,4to4,,assets/images/alchemist.jpg,,,The alchemist,The alchemist_content, Paulo coelho
+18,THINK AND GROW RICH - Napoleon Hill Compiled by Ross Cornwell   Self-love ,Self-love ,4,5to7,,assets/images/think.jpg,,,Think and grow rich-1,Think and grow rich-1_content, Napoleon Hill Compiled by Ross Cornwell
+19,IKIGAI - Hector Garcia and Francesc Miralles    Self-love ,Self-love ,5,8to9,,assets/images/lkigai.jpg,,,Ikigai,Ikigai_content, Hector Garcia and Francesc Miralles
+20,PYTHON PROGRAMMING FOR BEGINNERS - Adam stewart Technical,Web-dev,1,4to4,,assets/images/python.jpg,,,Python Books PDf-1-115-2-60,Python Books PDf-1-115-2-60_content, Adam stewart
+21,PYTHON PROGRAMMING FOR INTERMEDIATES - Adam stewart Technical,Web-dev,2,4to4,,assets/images/python.jpg,,,Python Books PDf-1-115-61-115,Python Books PDf-1-115-61-115_content, Adam stewart
+22,ADVANCED GUIDE TO PYTHON 3 PROGRAMMING - John hunt  Technical,Web-dev,3,14to27,,assets/images/python.jpg,,,2019_Book_AdvancedGuideToPython3Programm,2019_Book_AdvancedGuideToPython3Programm_content, John hunt
+23,C PROGRAMMING THE ULTIMATE WAY TO LEARN THE FUNDAMENTALS OF C LANGUAGE - Harry H.Chaudhary  Technical,Web-dev,4,8to8,,assets/images/c.jpg,,,C Programming __ The Ultimate Way to Learn The Fundamentals of The C Language. ( PDFDrive ),C Programming __ The Ultimate Way to Learn The Fundamentals of The C Language. ( PDFDrive )_content, Harry H.Chaudhary
+24,INTERMEDIATE C PROGRAMMING - Yung-Hsiang Lu Technical,Web-dev,5,7to13,,assets/images/cinter.jpg,,,intermediate-c-programming-9781498711647-9781498711630-9781138460775-113846077x_compress,intermediate-c-programming-9781498711647-9781498711630-9781138460775-113846077x_compress_content, Yung-Hsiang Lu
+25,ADVANCED C - Peter D.Hipson Technical,Language,1,10to21,,assets/images/advanced-c.jpg,,,Advanced C [EnglishOnlineClub.com],Advanced C [EnglishOnlineClub.com]_content, Peter D.Hipson
+26,LINUX FOR BEGINNERS - Adam vardy    Technical,Language,2,5to5,,assets/images/linux.jpg,,,Linux For Beginners_ The Ultimate Guide To The Linux Operating System & Linux ( PDFDrive ),Linux For Beginners_ The Ultimate Guide To The Linux Operating System & Linux ( PDFDrive )_content, Adam vardy
+27,THE LINUX PROGRAMMING INTERFACE - Michael kerrisk   Technical,Language,3,14to31,,assets/images/linux.jpg,,,The Linux Programming Interface ( PDFDrive ),The Linux Programming Interface ( PDFDrive )_content, Michael kerrisk
+28,COMPTIA ADVANCED SECURITY PRACTITIONER (CASP) CAS-003 CERT GUIDE - Robin Albernathy Technical,Language,4,10to47,,assets/images/comptia.jpg,,,CompTIA Advanced Security Practitioner (CASP) CAS-003 Cert Guide  CompTIA A ( PDFDrive ),CompTIA Advanced Security Practitioner (CASP) CAS-003 Cert Guide  CompTIA A ( PDFDrive )_content, Robin Albernathy
+29,FRONT END FUNDAMENTALS - Joe fender and Carwin Young    Technical,Language,5,5to6,,assets/images/front-end.jpg,,,Front-End Fundamentals_ A practical guide to front-end web development. ( PDFDrive ),Front-End Fundamentals_ A practical guide to front-end web development. ( PDFDrive )_content, Joe fender and Carwin Young
+30,SUCCESS WITHIN FRONT END OF INNOVATION - Hedvig ahlgren and Moa Landstrom   Technical,Language,6,14to15,,assets/images/success.jpg,,,Success within Front End of Innovation ( PDFDrive ),Success within Front End of Innovation ( PDFDrive )_content, Hedvig ahlgren and Moa Landstrom
+31,FRONT-END DEVELOPMENT - Simone chiaretta    Technical,Language,7,19to25,,assets/images/front-end-dev.jpg,,,"Front-end Development with ASP.NET Core, Angular, and Bootstrap ( PDFDrive )","Front-end Development with ASP.NET Core, Angular, and Bootstrap ( PDFDrive )_content", Simone chiaretta 
