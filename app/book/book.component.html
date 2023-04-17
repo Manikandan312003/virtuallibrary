@@ -1,0 +1,105 @@
+<html>
+    <body>
+        <div id="div1"><iframe [src]="path" width="100%" height="100%"></iframe></div>
+        <div id="div2" width="100%" height="100%" >
+            <div class="center">
+                <h1>Book name:{{images[0].name}}</h1>
+              </div>
+            <div class="center">
+                <h2>Author name:{{images[0].author}}</h2>
+            </div>
+            <div class="center">
+                <h2>category:{{images[0].category}}
+                        
+                </h2>
+            </div>
+            
+            
+            
+            
+            <h2>Rating</h2>
+            <div   class="centered" id="viewer">
+            </div>
+            <app-search></app-search>
+            
+<div class="product-price-btn">
+    <button style="height: 100%;" (click)="readbook()">Read Book</button></div>
+        </div>
+        
+         <!-- <div id="'div2"><iframe src={path}></ifram></div> -->
+    </body>
+</html>
+
+<style>
+    body{
+        overflow: hidden;
+    }
+
+    #div1{
+        float: right;
+        width: 50%;
+        height: 100%;
+        overflow: scroll;
+        pointer-events: auto;
+    }
+
+    #div2 {
+        float: left;
+        width: 50%;
+        height: 100vh;
+        position: absolute;
+        overflow: scroll;
+
+    }
+    .center {
+  text-align: center;
+}
+
+h1 {
+  font-size: 28px;
+  font-weight: bold;
+  margin-top: 50px;
+}
+
+h2 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 30px;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.5;
+  margin-top: 20px;
+}
+
+ul {
+  margin-top: 20px;
+  list-style-type: none;
+  padding-left: 0;
+}
+
+li {
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+
+.rating {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.star {
+  font-size: 24px;
+  color: #f1c40f;
+  margin-right: 10px;
+}
+
+.star:last-of-type {
+  margin-right: 0;
+}
+
+    
+</style>
