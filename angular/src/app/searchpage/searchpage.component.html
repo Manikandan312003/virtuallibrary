@@ -1,0 +1,51 @@
+<body>
+  
+<h1 style="color: red;" *ngIf="length==0">No book found<br>
+  Looking for a book?<br>
+  Search by both title and author, and double-check the spelling.
+  
+  
+</h1>
+
+<header class="header">
+  <a  class="logo">BOOK BAE</a>
+  <nav class="nav-items">
+    <!-- {{getinput.input}} -->
+    Searched Value {{getinput.input}}
+    
+    <input type="text" style="border-radius: 30px; width: 500px;" class="inputbox" value="{{inputValue}}" [(ngModel)]="inputValue" (keyup)="onInputChange()" (keyup.enter)="onenter()">
+    </nav>
+
+    
+    <ul *ngIf="matchedNames.length > 0">
+      <li *ngFor="let name of matchedNames" (click)="onNameClick(name)">
+        <b (click)="onNameClick(name)">{{ name.substr(0, inputValue.length) }}</b>{{ name.substr(inputValue.length) }}
+      </li>
+    </ul>
+    
+    
+  </header>
+  
+  <div class="body">
+<div *ngFor="let image of images">
+<div class="wrapper">
+    <div class="product-img">
+      <img src={{image.src}} height="420" width="327">
+      <h2>{{image.category}}</h2>
+    </div>
+    <div class="product-info">
+      <div class="product-text">
+        <h1>{{image.name}}</h1>
+        <!-- <h2>{{image.category}}</h2> -->
+        <!-- <p>Harvest Vases are a reinterpretation<br> of peeled fruits and vegetables as<br> functional objects. The surfaces<br> appear to be sliced and pulled aside,<br> allowing room for growth. </p> -->
+      </div>
+      <div class="product-price-btn">
+        <button type="button" (click)="addwish(image.name)">Wishlist</button>
+        <button type="button" (click)="rout(image.name)">Read Book</button>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+
+</body>
